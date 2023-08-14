@@ -59,6 +59,10 @@ p {
   display: none;
 }
 
+.hidden1 {
+  display: none;
+}
+
 .modal {
   position: absolute;
   top: 50%;
